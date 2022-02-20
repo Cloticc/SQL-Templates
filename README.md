@@ -1,6 +1,6 @@
 # [SQL-Templates]
 
-A repository for SQL templates.
+A repository for Azerothcore SQL templates.
 
 ## Need help?
 
